@@ -1,5 +1,5 @@
+/src/main/resources/no_git_data.txt
+.idea
+target
 *.class
 *.jar
-target
-.idea
-resources/no_git_data.txt
